@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Config_Master-FFD700?style=for-the-badge&logo=neovim&logoColor=black" alt="Config Master" />
 
 
-![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/andi-nugroho/andi-nugroho/blob/main/github-contribution-grid-snake-dark.svg)
 </div>
 
 <p>
