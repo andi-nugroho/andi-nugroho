@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Andii </h1>
-<h3 align="center">Software Development | Distro Hopper 🐧</h3>
+<h3 align="center">Software Development | Distro Hopper🐧</h3>
 
 
 
