@@ -1,4 +1,4 @@
-# Andi Nugroh
+# Andi Nugroho
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/andiinugroho)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:4andinugroho@gmail.com)
 
