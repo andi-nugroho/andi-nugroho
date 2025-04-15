@@ -11,7 +11,7 @@ Always learning, always shipping. Let's build the future together.
 
 ## 🛠️ My Skills
 
-### 🧱 Blockchain & Smart Contract Development
+### — Blockchain & Smart Contract Development
 [![My Skills](https://skillicons.dev/icons?i=solidity,rust&theme=dark&perline=8)](https://skillicons.dev)
 - Web3, DeFi, NFTs, DAOs, RWA
 - zk-Rollups, EVM, Cosmos IBC, Solana Programs
