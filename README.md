@@ -9,7 +9,7 @@ Hi, I'm a developer passionate about Blockchain, Web3, and AI.
 - 🧱 Focused on smart contract security and full-stack dApp development.
 Always learning, always shipping. Let's build the future together.
 
-## 🛠️ My Skills
+## My Skills
 
 ### Blockchain & Smart Contract Development
 [![My Skills](https://skillicons.dev/icons?i=solidity,rust&theme=dark&perline=8)](https://skillicons.dev)
