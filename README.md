@@ -21,7 +21,7 @@ Always learning, always shipping. Let's build the future together.
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,graphql,express,mongodb,postgres,redis,supabase,docker,vercel,tailwind,git,postman,aws,c&theme=dark&perline=8)](https://skillicons.dev)
 - REST APIs, CI/CD, TEE, shadcn/ui
 
-### 🧠 AI & Research
+### AI & Research
 [![My Skills](https://skillicons.dev/icons?i=py,aws&theme=dark&perline=8)](https://skillicons.dev)
 - LLM Integration, RAG, Agentic Frameworks  
 - Decentralized AI & Inference  
