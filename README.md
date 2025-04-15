@@ -17,7 +17,7 @@ Always learning, always shipping. Let's build the future together.
 - zk-Rollups, EVM, Cosmos IBC, Solana Programs
 - Cairo, Starknet, Teal, Algorand
 
-### 💻 Full Stack Web Development & Security
+### Full Stack Web Development & Security
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,graphql,express,mongodb,postgres,redis,supabase,docker,vercel,tailwind,git,postman,aws,c&theme=dark&perline=8)](https://skillicons.dev)
 - REST APIs, CI/CD, TEE, shadcn/ui
 
