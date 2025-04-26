@@ -1,6 +1,15 @@
 # ANDI NUGROHO
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/andiinugroho)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:4andinugroho@gmail.com)
+<div align="left"> 
+  <a href="mailto:4andinugroho@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/andiinugroho" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/andi-nugroho" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 # About Me:
 Hi, I'm a developer passionate about Blockchain, Web3, and AI.
