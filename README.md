@@ -15,7 +15,7 @@ Always learning, always shipping. Let's build the future together.
 
 ## Reach me on:
 <div align="left"> 
-  <a href="mailto:4andinugroho@gmail.com">
+  <a href="mailto:dev.andinugroho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/andiinugroho" target="_blank">
