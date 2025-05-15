@@ -6,7 +6,7 @@
 
 I'm a Software Developer dedicated to crafting innovative solutions in the Blockchain space.
 
-Leveraging languages like JavaScript, Rust, Python and frameworks such as Hardhat & Next.js,
+Leveraging languages like TypeScript, Rust, Python and frameworks such as Hardhat & Next.js,
 
 I'm passionate about Web3's potential and thrive on complex challenges.
 
