@@ -4,7 +4,7 @@
 
 ## About Me:
 
-I'm a Full Stack Developer dedicated to crafting innovative and robust web solutions. Leveraging languages like TypeScript, JavaScript, and Python, and frameworks such as Node.js, React, & Next.js, I build scalable applications from front to back. I'm passionate about the potential of modern web technologies to solve complex challenges and have a keen interest in the evolving decentralized space. Open to collaboration and new opportunities to build the future of the web. Let's connect!
+I'm a **Full Stack Developer** dedicated to crafting innovative and robust web solutions. Leveraging languages like **TypeScript, JavaScript, and Python**, and frameworks such as **Node.js, React, & Next.js,** I build scalable applications from front to back. I'm passionate about the potential of modern web technologies to solve complex challenges and have a keen interest in the evolving decentralized space. Open to collaboration and new opportunities to build the future of the web. Let's connect!
 
 ## My Blog Articles:
 
