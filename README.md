@@ -11,7 +11,7 @@ I'm a **Full Stack Developer** dedicated to crafting innovative and robust web s
 <p align="left"> <a href="https://dev.to/andinugroho" target="_blank">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
-  &nbsp;&nbsp; <a href="https://medium.com/@andi.dev" target="_blank">
+  &nbsp;&nbsp; <a href="https://medium.com/@andi-nugroho" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   </p>
