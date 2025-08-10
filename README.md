@@ -26,7 +26,7 @@ I'm a **Full Stack Developer** dedicated to crafting innovative and robust web s
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/andi-nugroho" target="_blank">
+  <a href="https://andidev.space" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/> </a>
   </p>
 
